@@ -1,2 +1,2 @@
 # Datascience
-Repository studies of data science
+Repository of data science studies
