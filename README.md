@@ -4,7 +4,9 @@ Repository of data science studies
 ## Comands for dataframe pandas
 
 ### Retira linha pelo index
+'''
 df.drop([ 0,1,2,3 ])
+'''
 ### Filtra as linhas com os comandos logicos
 filtro  = df['coluna'] > 1
 ### Cria novo dataframe sem o filtro
