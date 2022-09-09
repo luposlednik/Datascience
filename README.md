@@ -18,7 +18,8 @@ df.at[ numeroIndex, 'coluna' ]
 df[df['coluna'] == 'nomeposição']
 ### procura dentro do df pela coluna descrições
 df.loc[df['coluna'].isin( ['nome1','nome2'])]
-	
+###Retira uma amostra com base de acordo com o tamanho e medidas de controle
+df.sample(n=10, random_state=2)
 ### Renomeia colunas
 Df.columns = [‘nomecolu1’,’ ‘nomecolu2’]
 ### Agrupa e mostra valores iguais para a coluna especifica
