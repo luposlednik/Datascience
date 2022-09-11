@@ -1,5 +1,5 @@
 # Datascience
-Repository of data science studies
+<blockquote><h6>Repository of data science studies</h6></blockquote>
 ---
 ## Comands for dataframe pandas
 
